@@ -1,0 +1,21 @@
+{
+  "name": "tsq-cli",
+  "version": "1.0.0",
+  "description": "tsq command line interface",
+  "main": "build/index.js",
+  "bin": {
+    "tsq": "build/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "hxxns",
+    "email": "hxxns99@gmail.com",
+    "url": "https://github.com/hoonn9"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

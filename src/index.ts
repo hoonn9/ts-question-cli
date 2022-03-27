@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { question } from "./readline";
 
 async function start() {
